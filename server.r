@@ -20,3 +20,5 @@ apply(df2[,3:8]/10^5,2,sum,na.rm=T)
 unique(df2[,2])
 
 dbDisconnect(whcon)
+
+#changes to server branch.
